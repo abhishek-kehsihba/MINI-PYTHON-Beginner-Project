@@ -1,6 +1,6 @@
 # MINI-PYTHON-Beginner-Project
 
-Small Python Projects for absolute beginners>
+Small Python Projects for absolute beginners.  <br>
 When starting with Python programming language, use these projects to understand basic concepts.
 
 
@@ -26,6 +26,6 @@ Please make sure to update tests as appropriate.
 
 Clone the repo :
 ```shell
-$ git clone https://github.com/<username>/foo.git foo
+$ git clone <rep_link>
 ```
 
